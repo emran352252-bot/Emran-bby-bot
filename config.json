@@ -90,7 +90,7 @@
         "log": true,
         "out": "",
         "kickAll": "",
-        "delThread": ""
+        "delThread": "" 
     },
     "weather": {
         "OPEN_WEATHER": "c4ef85b93982d6627681b056e24bd438"
